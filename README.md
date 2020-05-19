@@ -2,6 +2,10 @@
 
 <b>This is made with the regard of fullfillment of Smartinternz Internship Program.</b>
 
+<b>Youtube explanation video Link :</b> https://youtu.be/I0X5m3YdSkw
+
+<b>Node Red Dashboard Link :</b> https://node-red-arindom-smartbridge.eu-gb.mybluemix.net/ui/#!/0?socketid=CqjftvQKEMM_HyQTAAAM
+
 This is repositroy build Using the Watson Discovery Smart Document Understanding (SDU) feature, we will enhance the Discovery model so that queries will be better focused to only search the most relevant information found in a typical owner's manual and Using Watson Assistant, we will use a standard customer care dialog to handle a typical conversation between a custmomer and a company representitive. When a customer question involves operation of a product, the Assistant dialog will communicate with the Discovery service using a webhook.The webhook will be created by defining a web action using IBM Cloud Functions
 
 
@@ -18,12 +22,6 @@ In this project, there will be another option. If the customer question is about
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
 
-<h2>URLS :</h2>
-<b>Node Red Dashboard Link :</b> https://node-red-arindom-smartbridge.eu-gb.mybluemix.net/ui/#!/0?socketid=CqjftvQKEMM_HyQTAAAM
-
-
-
-<b>Youtube explanation video Link :</b> https://youtu.be/I0X5m3YdSkw
 
 <h2>Contents in Repository:</h2>
 
