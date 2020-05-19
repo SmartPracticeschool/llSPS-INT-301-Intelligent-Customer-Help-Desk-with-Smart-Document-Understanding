@@ -1,7 +1,5 @@
 # llSPS-INT-301-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
-<b>This is made with the regard of fullfillment of Smartinternz Internship Program.</b>
-
 <b>Youtube explanation video Link :</b> https://youtu.be/I0X5m3YdSkw
 
 <b>Node Red Dashboard Link :</b> https://node-red-arindom-smartbridge.eu-gb.mybluemix.net/ui/#!/0?socketid=CqjftvQKEMM_HyQTAAAM
