@@ -45,4 +45,4 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 9.Node-red dashboard link
 
-10.Node-red dashboard output
+10.Node-red flow dashboard output screenshots
