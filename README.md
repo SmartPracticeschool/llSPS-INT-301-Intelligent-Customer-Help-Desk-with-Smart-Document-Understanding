@@ -38,3 +38,11 @@ To take it a step further, the project shall use the Smart Document Understandin
 5.Project Explanation Video link
 
 6.Project Report
+
+7.Feedback video link
+
+8.Project explanation video link
+
+9.Node-red dashboard link
+
+10.Node-red dashboard output
