@@ -2,9 +2,9 @@
 
 <h1> URLs: </h1>
 
-<b> Youtube smartinternz Feedback video link :</b> https://youtu.be/eCVUG7Iyu5s 
+<b> Smartinternz Feedback youtube video link :</b> https://youtu.be/eCVUG7Iyu5s 
 
-<b>Youtube explanation video Link :</b> https://youtu.be/iP39dGYqCw0
+<b>Project explanation youtube video Link :</b> https://youtu.be/iP39dGYqCw0
 
 <b>Node Red Dashboard Link :</b> https://node-red-arindom-smartbridge.eu-gb.mybluemix.net/ui/#!/0?socketid=CqjftvQKEMM_HyQTAAAM
 
